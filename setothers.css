@@ -59,7 +59,7 @@ body{
 	-webkit-transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);/*Safari*/
 }
 
-#li:hover{
+# li:hover{
   cursor: pointer;
 	background-color: #fff;
 	color: #fe5656;
